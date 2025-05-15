@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация бота
-TOKEN = "8198907146:AAHyB4w-HhVNQsed9PxHSNLFSZHximUj_0U"
+TOKEN = "git remote add origin https://github.com/Shohruhdeveloper7/Valyutakurs.git"
 API_BASE = "https://v6.exchangerate-api.com/v6/075da83e108bde274389c814/latest/"
 CACHE_TTL = 300  # Кеширование на 5 минут
 
